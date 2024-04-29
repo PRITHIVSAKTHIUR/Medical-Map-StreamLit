@@ -17,4 +17,8 @@ license: creativeml-openrail-m
 
 🚀Docs for Space : https://huggingface.co/spaces/prithivMLmods/Medcial-Map-NearMe/tree/main
 
-![alt text](Assets/ee.png)
+🗺️Map showing Fortis Hospital in Coimbatore & it's bed count availability [400]
+
+🔮Nearby Hospitals to Fortis Hospital Coimbatore :
+
+![alt text](assets/ee.png)
