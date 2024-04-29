@@ -1,0 +1,6 @@
+streamlit
+graphviz
+pycountry
+folium
+streamlit-folium
+altair<5
