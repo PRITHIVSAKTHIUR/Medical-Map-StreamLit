@@ -37,3 +37,5 @@ license: creativeml-openrail-m
 +folium
 +streamlit-folium
 +altair<5
+
+pip install -r requirements.txt
