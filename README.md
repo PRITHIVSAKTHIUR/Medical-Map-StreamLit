@@ -10,4 +10,11 @@ pinned: false
 license: creativeml-openrail-m
 ---
 
-Check out the configuration reference at https://huggingface.co/docs/hub/spaces-config-reference
+
+🚀Check out the configuration reference at https://huggingface.co/docs/hub/spaces-config-reference
+
+🚀Huggingface Spaces : https://huggingface.co/spaces/prithivMLmods/Medcial-Map-NearMe
+
+🚀Docs for Space : https://huggingface.co/spaces/prithivMLmods/Medcial-Map-NearMe/tree/main
+
+![alt text](Assets/ee.png)
