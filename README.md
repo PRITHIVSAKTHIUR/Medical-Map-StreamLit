@@ -29,4 +29,16 @@ license: creativeml-openrail-m
 
 .
 
-.end
+## Package dependencies
+
++streamlit
+
++graphviz
+
++pycountry
+
++folium
+
++streamlit-folium
+
++altair<5
