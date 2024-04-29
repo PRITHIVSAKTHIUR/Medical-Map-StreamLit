@@ -39,3 +39,5 @@ license: creativeml-openrail-m
 +altair<5
 
 pip install -r requirements.txt
+
+Run the app by : python streamlit run app.py
