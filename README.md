@@ -11,6 +11,8 @@ license: creativeml-openrail-m
 ---
 
 
+![alt text](assets/4.png)
+
 🚀Check out the configuration reference at https://huggingface.co/docs/hub/spaces-config-reference
 
 🚀Huggingface Spaces : https://huggingface.co/spaces/prithivMLmods/Medcial-Map-NearMe
