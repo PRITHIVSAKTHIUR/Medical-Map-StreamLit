@@ -8,6 +8,7 @@ hospitals = [('Mayo Clinic', 'Rochester', 44.023678, -92.466955),
              ('Hennepin County Medical Center', 'Minneapolis', 44.972078, -93.261769),
              ('Regions Hospital', 'St. Paul', 44.942936, -93.093457),
              ('Abbott Northwestern Hospital', 'Minneapolis', 44.955447, -93.268543)]
+             ('Abbott St. Hospital', 'Minneapolis', 44.955447, -93.268543)]
 
 # Create a map centered on Minnesota
 m = folium.Map(location=[45.0, -94.0], zoom_start=7)
